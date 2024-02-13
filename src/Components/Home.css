@@ -1,0 +1,9 @@
+#but {
+    height: 40px;
+    width: 140px;
+    background-color: aqua;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
